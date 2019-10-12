@@ -1,0 +1,29 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More to read"
+    },
+    {
+      "type": "portrait",
+      "title": "PDFで見る",
+      "url": "/story/bousaicard01.pdf",
+      "image": "/story/cover.png",
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Webサイトを開く",
+          "url": "https://www.city.setagaya.lg.jp/mokuji/kurashi/005/003/003/d00028764.html"
+        }
+      ]
+    }
+  ]
+}
