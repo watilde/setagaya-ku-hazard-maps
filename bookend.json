@@ -20,6 +20,10 @@
       "type": "cta-link",
       "links": [
         {
+          "text": "Topページに戻る",
+          "url": "https://watilde.github.io/setagaya-ku-hazard-maps/"
+        },
+        {
           "text": "Webサイトを開く",
           "url": "https://www.city.setagaya.lg.jp/mokuji/kurashi/005/003/003/d00028764.html"
         }
